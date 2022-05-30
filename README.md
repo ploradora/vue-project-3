@@ -1,4 +1,4 @@
-# 23r323
+# Interactive rating component
 
 ## Project setup
 ```
